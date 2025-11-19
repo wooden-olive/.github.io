@@ -1,10 +1,10 @@
 
 
-Data Sources and Project Ideas
+# Data Sources and Project Ideas
 
-1. Bechdel Test in movies [https://www.kaggle.com/datasets/treelunar/bechdel-test-movies-as-of-feb-28-2023/data]
+Bechdel Test in movies [https://www.kaggle.com/datasets/treelunar/bechdel-test-movies-as-of-feb-28-2023/data]
 
-Description:
+*Description:*
 Overview of the dataset, including what fields or topics it covers.
 
 Project Ideas:
